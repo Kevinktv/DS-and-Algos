@@ -1,0 +1,2 @@
+msg = "bruh"
+print(msg)
